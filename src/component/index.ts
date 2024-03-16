@@ -4,6 +4,7 @@ import InputComponent from "./InputComponent";
 import KeyboardAvoidingWrapper from "./KeyboardAvoidingWrapper";
 import RowComponent from "./RowComponent";
 import SectionComponent from "./SectionComponent";
+import SpaceComponent from "./SpaceComponent";
 import TextComponent from "./TextComponent";
 
 export {
@@ -14,4 +15,5 @@ export {
     KeyboardAvoidingWrapper,
     RowComponent,
     ContainerComponent,
+    SpaceComponent,
 };

@@ -5,7 +5,7 @@ import { FONTFAMILY } from "../../assets/fonts";
 export const globalStyle = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: COLORS.HEX_BLACK
+        backgroundColor: COLORS.WHITE
     },
     text: {
         fontFamily: FONTFAMILY.poppins_regular,
@@ -16,7 +16,7 @@ export const globalStyle = StyleSheet.create({
         borderRadius: 12,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: COLORS.HEX_ORANGE,
+        backgroundColor: COLORS.GREEN,
         paddingHorizontal: 10,
         height: 56,
         flexDirection: 'row'
